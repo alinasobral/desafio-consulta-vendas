@@ -27,7 +27,12 @@ A aplicação consiste em uma API REST para consulta de vendas, permitindo gerar
 - Relacionamento entre entidades (Many-to-One e One-to-Many)
 - Manipulação de datas com LocalDate
 - Tratamento de parâmetros opcionais
-- Boas práticas de organização de código
+
+## 💼 Diferenciais do Projeto
+- Implementação de consultas eficientes com projeção em DTO
+- Construção de endpoints REST com suporte a filtros dinâmicos
+- Paginação de resultados para otimização de performance
+- Separação de responsabilidades seguindo boas práticas de arquitetura
 
 ## ⚙️ Funcionalidades
 

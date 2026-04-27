@@ -13,10 +13,9 @@ Projeto desenvolvido como parte do módulo de Back-end da formação da DevSuper
 
 ## 📚 Descrição do projeto
 
-A aplicação consiste em uma API REST para consulta de vendas, permitindo gerar:
-
-- Relatório de vendas com filtros e paginação
-- Sumário de vendas por vendedor
+API REST desenvolvida com Spring Boot para consulta e análise de vendas,
+permitindo geração de relatórios paginados e sumários por vendedor,
+com suporte a filtros dinâmicos por período e nome.
 
 ## 🧠 Conceitos aplicados
 - Arquitetura em camadas (Controller, Service, Repository)
